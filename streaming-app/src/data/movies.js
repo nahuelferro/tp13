@@ -137,14 +137,6 @@ const movies = [
   },
   {
   id: 18,
-  title: "Up",
-  description: "Un anciano y un niño explorador viajan en una casa voladora para cumplir una promesa.",
-  genre: "Animación / Aventura / Comedia",
-  duration: "96 min",
-  image: "https://image.tmdb.org/t/p/w500/xycF4aBzrKfa1jmP703J5oCbKuA.jpg"
-  },
-  {
-  id: 19,
   title: "The Shawshank Redemption",
   description: "Un hombre condenado por un crimen que no cometió encuentra esperanza en prisión.",
   genre: "Drama / Crimen",
@@ -152,7 +144,7 @@ const movies = [
   image: "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
   },
   {
-  id: 20,
+  id: 19,
   title: "Doctor Strange in the Multiverse of Madness",
   description: "Stephen Strange abre una puerta al multiverso y debe enfrentarse a consecuencias devastadoras.",
   genre: "Acción / Fantasía / Superhéroes",
